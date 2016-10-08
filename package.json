@@ -1,0 +1,28 @@
+{ "name": "read-resolved-file-sync",
+  "version": "1.0.0",
+  "description": "Deceive your linter by hiding both sync function calls.",
+  "keywords": [
+    "fs",
+    "readFileSync",
+    "resolve",
+    "sync"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/read-resolved-file-sync-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/read-resolved-file-sync-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/read-resolved-file-sync-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "rrfs.js",
+  "scripts": { "test": "nodejs test/test.js" },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
