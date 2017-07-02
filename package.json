@@ -1,5 +1,5 @@
 { "name": "read-resolved-file-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deceive your linter by hiding both sync function calls.",
   "keywords": [
     "fs",
